@@ -1,4 +1,33 @@
 # 11 Express.js: Note Taker
+# ASTeamProfileGenerator
+
+## Description
+This application is called ASNoteTaker and it is  used to write and save notes.It uses an Express.js back end and  save and retrieve note data from a JSON file.
+It uses fs and util modules. 
+
+## Usage
+Install all libraries via npm install.
+Run npm install in terminal and click in the url link shown.
+A HTML file will be automatically generated.
+
+Click on the Start buttom and the notes page is shown, where all the previouly saved notes are. A new note can be save or old notes can be deleted
+
+
+
+## Tools
+JavaScript  
+Node.js
+Express.js
+
+## Demo
+ TeamGenerator:(https://drive.google.com/file/d/16vFxpZcIJLR_8auBhnXLNMWNaRJTXGP5/view)
+
+
+
+## Contact
+Email: asantidrian83@gmail.com  
+Project link: https://github.com/asantidrian/ASTeamProfileGenerator  
+
 
 ## Your Task
 
