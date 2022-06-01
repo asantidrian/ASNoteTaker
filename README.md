@@ -22,10 +22,10 @@ Express.js
 
 ## Demo
 
- TeamGenerator:(https://drive.google.com/file/d/16vFxpZcIJLR_8auBhnXLNMWNaRJTXGP5/view)
+ Notetaker Demo:(https://drive.google.com/file/d/1xGG1SX_RXIdEjI_Kp04uGJaDeEoel652/view)
 
 
 ## Contact
 Email: asantidrian83@gmail.com  
-Project link: https://github.com/asantidrian/ASTeamProfileGenerator  
+Project link: https://github.com/asantidrian/ASNoteTaker
 
